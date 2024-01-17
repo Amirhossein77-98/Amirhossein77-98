@@ -17,7 +17,7 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 ![Git](https://img.shields.io/badge/git-red)
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![VScode](https://img.shields.io/badge/VSCode-blue)
-![Linux](https://img.shields.io/badge/Linux-black)
+![Linux](https://img.shields.io/badge/Linux-gray)
 ![Flutter](https://img.shields.io/badge/Flutter-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![HTML5](https://img.shields.io/badge/HTML-orange)
