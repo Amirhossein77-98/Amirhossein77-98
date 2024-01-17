@@ -13,7 +13,7 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 
 🛠️ Skills and Tools:
 
-![Python](https://img.shields.io/badge/python-yellow)
+![Python](https://img.shields.io/badge/python-yellow?logo=python&logoColor=blue&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-red)
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![VScode](https://img.shields.io/badge/VSCode-blue)
