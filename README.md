@@ -15,13 +15,12 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 )
-![Git](https://img.shields.io/badge/git-red)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-blue)
-![VScode](https://img.shields.io/badge/VSCode-blue)
-![Linux](https://img.shields.io/badge/Linux-gray)
-![Flutter](https://img.shields.io/badge/Flutter-blue)
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![HTML5](https://img.shields.io/badge/HTML-orange)
-![CSS3](https://img.shields.io/badge/CSS-red)
-
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 📈 GitHub Stats:
