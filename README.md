@@ -15,13 +15,12 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 
 ![Python](https://img.shields.io/badge/python-yellow)
 ![Git](https://img.shields.io/badge/git-red)
-![Docker](https://img.shields.io/badge/)
-![VScode](https://img.shields.io/badge/)
-![Linux](https://img.shields.io/badge/)
-![TensorFlow](https://img.shields.io/badge/)
-![Flutter](https://img.shields.io/badge/)
-![JavaScript](https://img.shields.io/badge/)
-![HTML5](https://img.shields.io/badge/)
-![CSS3](https://img.shields.io/badge/)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![VScode](https://img.shields.io/badge/VSCode-blue)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Flutter](https://img.shields.io/badge/Flutter-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML5](https://img.shields.io/badge/HTML-orange)
+![CSS3](https://img.shields.io/badge/CSS-red)
 
 📈 GitHub Stats:
