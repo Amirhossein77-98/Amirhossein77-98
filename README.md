@@ -9,7 +9,7 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 💬 Ask me about Python and new Techs :)
 ⚡ Fun fact: I Love and Adore Abgosht :)
 
-📫 How to reach me: Amirhosseingholizadeh1998@gmail.com or @AmirhosseinGh1998 on Telegram!
+📫 How to reach me: Amirhosseingholizadeh1998@gmail.com or on <a href="https://t.me/AmirhosseinGh1998">Telegram</a>!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
