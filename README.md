@@ -10,6 +10,10 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 📫 How to reach me: Amirhosseingholizadeh1998@gmail.com or @AmirhosseinGh1998 on Telegram!
 ⚡ Fun fact: I Love and Adore Abgosht :)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 🛠️ Skills and Tools:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
