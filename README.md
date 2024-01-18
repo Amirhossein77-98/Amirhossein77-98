@@ -27,6 +27,7 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 📈 GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirhossein77-98&theme=dark&background=000000)](https://git.io/streak-stats)
