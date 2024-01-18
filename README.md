@@ -39,5 +39,6 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 📈 GitHub Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirhossein77-98&theme=dark&background=000000)](https://git.io/streak-stats)
 
