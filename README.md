@@ -7,8 +7,9 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 👯 I’m looking to collaborate on anything related to AI and Python. Feel free to reach out to me.
 🤔 I’m looking for help with finding a job as a python intern developer
 💬 Ask me about Python and new Techs :)
-📫 How to reach me: Amirhosseingholizadeh1998@gmail.com or @AmirhosseinGh1998 on Telegram!
 ⚡ Fun fact: I Love and Adore Abgosht :)
+
+📫 How to reach me: Amirhosseingholizadeh1998@gmail.com or @AmirhosseinGh1998 on Telegram!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
