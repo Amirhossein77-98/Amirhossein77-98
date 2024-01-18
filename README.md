@@ -33,6 +33,7 @@ I'm a Python developer and AI student who loves coding and technology. I never s
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 📈 GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirhossein77-98&theme=dark&background=000000)](https://git.io/streak-stats)
