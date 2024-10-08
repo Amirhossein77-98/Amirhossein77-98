@@ -15,9 +15,7 @@ I'm a passionate **Python Developer** and **AI Master's Student** with developin
 
 📫 **Contact me**: [Email](mailto:Amirhosseingholizadeh1998@gmail.com) | [Telegram](https://t.me/AmirhosseinGh1998)
 
-📂 **Profiles**: 
-- [GitHub](https://github.com/Amirhossein77-98)
-- [LeetCode](https://leetcode.com/u/amirhossein77-98/)
+📂 **[My LeetCode Profile](https://leetcode.com/u/amirhossein77-98/)**
 
 ---
 
@@ -53,4 +51,4 @@ I'm a passionate **Python Developer** and **AI Master's Student** with developin
 
 ---
 
-⚡ **Fun fact**: I’m a big fan of **Abgosht**!
+⚡ **Fun fact**: If ai could, I would turn **Abgosht** into code!
