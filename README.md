@@ -1,44 +1,52 @@
 ## Hi there, I'm Amirhossein Gholizadeh 👋
 
-I'm a Python developer and AI student who loves coding and technology. I never stop learning and I'm always curious about everything related to tech and code. 
+I'm a passionate **Python Developer** and **AI Master's Student** with a background in English Literature, now deeply immersed in the world of coding and artificial intelligence. I thrive on solving complex problems, staying up-to-date with emerging technologies, and collaborating with others in the tech community.
 
-🔭 I’m currently working as a freelancer
-🌱 I’m currently learning AI and Data Science
-👯 I’m looking to collaborate on anything related to AI and Python. Feel free to reach out to me.
-🤔 I’m looking for help with finding a job as a python intern developer
-💬 Ask me about Python and new Techs :)
-⚡ Fun fact: I Love and Adore Abgosht :)
+### 👨‍💻 Currently:
+- Working as a **freelancer** across various tech projects.
+- Studying **AI and Data Science** with a focus on predictive models and data analysis.
+- Learning **React** to expand my frontend development skills.
 
-📫 How to reach me: Amirhosseingholizadeh1998@gmail.com or on <a href="https://t.me/AmirhosseinGh1998">Telegram</a>!
+### 🤝 Open to:
+- Collaborations in **AI** and **Python** projects—let’s connect and make something impactful!
+- Career opportunities as a **Python Developer Intern** to further hone my skills.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+💬 Feel free to ask me about **Python, AI, or the latest in tech**.
 
-🛠️ Skills and Tools:
+📫 **Contact me**: [Email](mailto:Amirhosseingholizadeh1998@gmail.com) | [Telegram](https://t.me/AmirhosseinGh1998)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+---
+
+### 🛠️ Skills & Tools
+
+#### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+#### Data Science & Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-📈 GitHub Stats:
+#### Tools & Technologies
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirhossein77-98&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
+
+⚡ **Fun fact**: I’m a big fan of **Abgosht**!
