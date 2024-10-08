@@ -51,4 +51,4 @@ I'm a passionate **Python Developer** and **AI Master's Student** with developin
 
 ---
 
-⚡ **Fun fact**: If ai could, I would turn **Abgosht** into code!
+⚡ **Fun fact**: If I could, I would turn **Abgosht** into code!
