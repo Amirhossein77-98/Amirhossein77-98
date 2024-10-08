@@ -1,11 +1,11 @@
 ## Hi there, I'm Amirhossein Gholizadeh 👋
 
-I'm a passionate **Python Developer** and **AI Master's Student** with a background in English Literature, now deeply immersed in the world of coding and artificial intelligence. I thrive on solving complex problems, staying up-to-date with emerging technologies, and collaborating with others in the tech community.
+I'm a passionate **Python Developer** and **AI Master's Student** with developing skills in **C#**, **JavaScript**, and **TypeScript**. I have a background in **AI**, **data science**, and **web development** and thrive on solving complex problems, staying up-to-date with emerging technologies, and collaborating with others in the tech community.
 
 ### 👨‍💻 Currently:
 - Working as a **freelancer** across various tech projects.
 - Studying **AI and Data Science** with a focus on predictive models and data analysis.
-- Learning **React** to expand my frontend development skills.
+- Expanding my frontend skills by learning **React**.
 
 ### 🤝 Open to:
 - Collaborations in **AI** and **Python** projects—let’s connect and make something impactful!
@@ -14,6 +14,10 @@ I'm a passionate **Python Developer** and **AI Master's Student** with a backgro
 💬 Feel free to ask me about **Python, AI, or the latest in tech**.
 
 📫 **Contact me**: [Email](mailto:Amirhosseingholizadeh1998@gmail.com) | [Telegram](https://t.me/AmirhosseinGh1998)
+
+📂 **Profiles**: 
+- [GitHub](https://github.com/Amirhossein77-98)
+- [LeetCode](https://leetcode.com/u/amirhossein77-98/)
 
 ---
 
