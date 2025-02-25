@@ -47,9 +47,3 @@ Feel free to reach out if you want to discuss **Python, AI, or the latest in tec
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirhossein77-98&theme=dark&background=000000)](https://git.io/streak-stats)
